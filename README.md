@@ -1,6 +1,6 @@
 Food Delivery Project
 
-Welcome to the Food Delivery Project repository! This project aims to develop a web application for online food ordering and delivery. Users can browse through various restaurants, select their desired dishes, place orders, and have them delivered to their doorstep. The repository contains all the necessary code and resources for building and deploying the application.
+Welcome to the Food Delivery Project repository! This project aims to develop a web application for online food ordering and delivery. Users can browse through various dishes, select their desired dishes, place orders, and have them delivered to their doorstep. The repository contains all the necessary code and resources for building and deploying the application.
 
 Table of Contents:
 
@@ -14,9 +14,13 @@ Features:
 
 
 1.Search functionality
+
 2.Menu browsing and dish selection
+
 3.Cart management and order placement
+
 4.Delivery address management
+
 5.Admin dashboard for managing restaurants and orders
 
 Installation:
